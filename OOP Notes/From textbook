@@ -1,0 +1,40 @@
+OOP is a programming paradigm that focuses on objects and their interactions.
+OOP allows for the creation of reusable code through the use of classes and objects.
+In Java, everything is an object, except for the primitive data types.
+A class is a blueprint for creating objects, while an object is an instance of a class.
+A constructor is a special method that is used to create and initialize objects.
+Encapsulation is the concept of hiding the internal details of an object from the outside world.
+Access modifiers (public, private, protected) are used to control the visibility of class members.
+Inheritance is the concept of creating a new class from an existing class, inheriting its properties and methods.
+Polymorphism is the ability of an object to take on many forms.
+Java uses dynamic binding to determine which method to call at runtime, based on the actual type of the object.
+The super keyword is used to call a superclass's constructor or method.
+The final keyword can be used to make a class, method, or variable unchangeable.
+Abstraction is the concept of focusing on the essential features of an object, while ignoring the irrelevant details.
+An interface is a collection of abstract methods and constants that can be implemented by a class.
+Multiple inheritance is not allowed in Java, but a class can implement multiple interfaces.
+Overloading is the ability to define multiple methods with the same name but different parameters.
+Overriding is the ability to define a method in a subclass with the same name and parameters as a method in the superclass.
+The this keyword refers to the current object instance.
+The static keyword is used to create class-level variables and methods.
+A static method can be called without creating an object of the class.
+A static variable is shared across all instances of a class.
+The final keyword can be used to make a variable a constant.
+The abstract keyword is used to create an abstract class or method, which cannot be instantiated directly.
+A class can extend only one superclass, but a superclass can be extended by multiple subclasses.
+The instanceof keyword is used to determine if an object is an instance of a specific class or interface.
+Accessor methods are used to retrieve the value of a private variable.
+Mutator methods are used to change the value of a private variable.
+In Java, arrays are objects.
+The length keyword is used to determine the length of an array.
+A two-dimensional array is an array of arrays.
+A constructor can call another constructor in the same class using the this() keyword.
+The equals() method is used to compare two objects for equality.
+The toString() method is used to return a string representation of an object.
+The hashCode() method is used to generate a unique integer value for an object.
+A static block is a block of code that is executed once when the class is loaded into memory.
+The try-catch-finally statement is used to handle exceptions.
+The throw keyword is used to throw an exception.
+The throws keyword is used to declare that a method can throw a specific exception.
+An interface can extend another interface using the extends keyword.
+A class that implements an interface must provide an implementation for all of the interface's methods.
